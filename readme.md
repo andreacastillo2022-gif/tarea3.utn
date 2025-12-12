@@ -1,6 +1,8 @@
 # TAREA 3
 Listado en consola usando metodos, arrays y main aprendidos.
 
+Promise.All opcional no realizado.
+
 ## Estructura del Proyecto
 - `index.html` → Contiene la estructura de la página  
 - `tareas.json` → contiene la base de datos con el listado de tareas  
@@ -27,4 +29,5 @@ git clone https://github.com/andreacastillo2022-gif/tarea3-utn.git
 3. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 5. https://www.syncfusion.com/blogs/post/11-console-methods-in-javascript-for-effective-debugging
+
 6. https://bugfender.com/blog/javascript-console-log/
